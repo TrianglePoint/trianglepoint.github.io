@@ -31,7 +31,6 @@ github_username:  TrianglePoint
 theme: minima
 plugins:
   - jekyll-feed
-baseurl: /repo
 
 # Exclude from processing.
 # The following items will not be processed, by default.
