@@ -5,7 +5,7 @@ date:   2021-11-23 21:45:00 +0900
 categories: Just write
 ---
 
-![Toilet symbol](/assets/images/ToiletSymbol.PNG)  
+![Toilet symbol](/assets/images/ToiletSymbol.png)  
 
 화장실의 모양을 보면 남자는 역삼각형, 여자는 삼각형의 모양을 하고 있는 경우가 있다.
 어렸을 때는 어깨에 각이 진 정장을 입은 남자, 원피스같은 치마를 입은 여자를 나타낸다고 생각했었다.

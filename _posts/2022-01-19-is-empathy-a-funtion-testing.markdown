@@ -5,7 +5,7 @@ date:   2022-01-19 22:42:00 +0900
 categories: Just write
 ---
 
-![Hair and cloth](/assets/images/HairAndCloth.PNG)
+![Hair and cloth](/assets/images/HairAndCloth.png)
 
 공감한다는 것은 무엇인가? 왜 기능 테스트를 떠올렸는가? 
 
