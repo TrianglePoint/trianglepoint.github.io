@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unity에서 화면 렉, 버벅임, 그 후 앱이 종료되는 문제"
+title:  "Unity에서 화면 렉, 버벅임, 그 후 앱이 종료되는 문제(Vulkan)"
 date:   2022-12-21 18:58:00 +0900
 categories: Unity
 ---
