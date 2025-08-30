@@ -19,10 +19,10 @@ categories: Linux
 
 # 해결
 * 2가지 방법 중 선택.
-1. [window.titleBarStyle](vscode://settings/window.titleBarStyle)를 `native`로 한다.
+* 1.[window.titleBarStyle](vscode://settings/window.titleBarStyle)를 `native`로 한다.
     * 메뉴 바가 OS 고유 형태로 표시. 상단 검색창과 분리.
     * 좌측 `alt`만 메뉴 포커싱.
-2. 'window.titleBarStyle'는 `custom`으로 유지, [window.customMenuBarAltFocus](vscode://settings/window.customMenuBarAltFocus)를 `false`로 지정.
+* 2.'window.titleBarStyle'는 `custom`으로 유지, [window.customMenuBarAltFocus](vscode://settings/window.customMenuBarAltFocus)를 `false`로 지정.
     * 메뉴 바와 상단 검색창이 통합.
     * 양측 `alt`가 메뉴 포커싱 비활성화.
     * (필자는 이걸로 함: 공간 효율 좋고, 메뉴 포커싱은 평소에 안 씀)
