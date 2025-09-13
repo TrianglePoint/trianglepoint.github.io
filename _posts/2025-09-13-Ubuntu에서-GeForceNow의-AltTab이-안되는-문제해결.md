@@ -6,7 +6,7 @@ categories: Linux
 ---
 
 # 상황
-* 어느 날 GeForce Now를 키자 'inhibit shortcuts' 어쩌구 하는 권한 확인 창이 뜸.
+* 어느 날 'GeForce Now'를 키자 'inhibit shortcuts' 어쩌구 하는 권한 확인 창이 뜸.
 * Allow 하고 난 후, 게임 플레이 중에 내 PC상의 `Alt+Tab`이 안됨.
 
 # 해결
@@ -33,7 +33,7 @@ flatpak permission-set gnome shortcuts-inhibitor microsoft-edge.desktop DENIED
 Table Object              App                    Permissions Data
 gnome shortcuts-inhibitor microsoft-edge.desktop DENIED      0x00
 ```
-* GeForce Now창을 다시 열면 해결. 끝.
+* 'GeForce Now'창을 다시 열면 해결. 끝.
 
 # 참고
 * [가상 머신 관련 질문](https://askubuntu.com/questions/1488341/how-do-i-inhibit-shortcuts-for-virtual-machines)
